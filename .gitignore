@@ -1,0 +1,7 @@
+data/
+model/
+*.pdf
+*.pptx
+*.odt
+*.docx
+*.ipynb
